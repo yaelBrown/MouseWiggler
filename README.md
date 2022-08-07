@@ -21,7 +21,7 @@ Default is every 3 seconds
 
 5 seconds
 ```
-python mouseJiggler.py 3
+python mouseJiggler.py 5
 ```
 
 10 seconds
